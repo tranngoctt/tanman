@@ -1,12 +1,12 @@
-# Vòng suy diễn của tâm (TIÊU CỰC) — Bản tra cứu (10 bước)
+# Vòng suy diễn của tâm (TIÊU CỰC) — 10 bước
 
-> Logic: **có cái này mới có cái kia**.  
+> Nền tảng logic: **dựa vào thập nhị nhân duyên - cái này có cái này mới có cái kia**.  
 > Mục đích: để **soi – nhận ra – phá vòng** nhanh.
 
 ## 1) Nhu cầu nền (cơ bản, không thể thiếu)
 **Cách gọi phổ biến:** nhu cầu gốc / nhu cầu cốt lõi / needs / động lực nền  
-**Nằm ở đâu:** Thân + tâm bên trong  
-**Dấu hiệu:** thấy “thiếu”, thấy “cần”, thấy “không ổn” dù chưa rõ vì sao  
+**Nằm ở đâu:** Thân + tâm   
+**Dấu hiệu:** thấy “thiếu”, thấy “cần”, thấy “không ổn” dù chưa rõ vì sao???  
 **Ví dụ nhu cầu:** An toàn • Thuộc về/Gắn kết • Được yêu • Tôn trọng • Công nhận/giá trị • Tự do/tự chủ • Chắc chắn • Công bằng • Ý nghĩa • Nghỉ ngơi/hồi phục
 
 ---
@@ -93,7 +93,7 @@
 
 ---
 
-# Vòng suy diễn của tâm (TÍCH CỰC) — Bản tra cứu (10 bước)
+# Vòng suy diễn của tâm (TÍCH CỰC) — 10 bước
 
 > Logic: **có cái này mới có cái kia**.  
 > Mục đích: để **sáng suốt – đối chiếu – hành động khôn ngoan**.
